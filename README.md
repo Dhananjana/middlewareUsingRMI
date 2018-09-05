@@ -1,4 +1,5 @@
 # middlewareUsingRMI
+Go to the src directory
 First you need to compile the all the files
 	javac *.java
 
